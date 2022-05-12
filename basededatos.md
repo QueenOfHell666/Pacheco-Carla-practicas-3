@@ -1,4 +1,4 @@
-# Base de datos de coticzacion del servicio del transporte 
+## Base de datos de cotizacion del servicio del transporte 
 
 >ENTIDADES :
 
@@ -14,7 +14,7 @@
 
 >ATRIBUTOS 
 
- Cliente:
+  Cliente:
  - Nombre
  - RFC "UQ"
  - Correo "UQ"
