@@ -8,6 +8,8 @@ Enlace a sitio Netlify: https://626ad74632a1f300a3753dad--bespoke-youtiao-78c089
 
 Enlace Vercel: https://carly-astro-3.vercel.app/en/introduction
 
+ Practica 6,7 y 8: [Base de Datos](/basededatos.md)
+
 ![foto](./Imagen/Screenshot_20220327-133608.png)
 
 # Comandos de Inicio
@@ -39,4 +41,6 @@ Inicialización de repositorio:
 - git remote add origin https://github.com/usuario/repositorio.git
 
 - git push -u origin main
+
+
 
