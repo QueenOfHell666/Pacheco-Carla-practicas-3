@@ -10,6 +10,8 @@ Enlace Vercel: https://carly-astro-3.vercel.app/en/introduction
 
  Practica 6,7 y 8: [Base de Datos](/basededatos.md)
 
+ Logica de Negocios : [Logica](/Logica.md)
+
 ![foto](./Imagen/Screenshot_20220327-133608.png)
 
 # Comandos de Inicio
