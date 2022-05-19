@@ -49,3 +49,15 @@
  - Destino 
 
  ![Image](./Imagen/Untitled%20Diagram.jpg)
+
+
+ >## Regla de Negocio
+
+ ## Cliente:
+ 1. Poner informacion del cliente
+ 2. Describir Producto
+ 3. Escoger Transporte
+ 4. Descripcion de viaje
+ 
+
+
