@@ -12,6 +12,8 @@ Enlace Vercel: https://carly-astro-3.vercel.app/en/introduction
 
  Logica de Negocios : [Logica](/Logica.md)
 
+ Tablas : [TABLAS](Tablas/SO_Tablas.xlsx)
+
 ![foto](./Imagen/Screenshot_20220327-133608.png)
 
 # Comandos de Inicio
