@@ -14,6 +14,8 @@ Enlace Vercel: https://carly-astro-3.vercel.app/en/introduction
 
  Tablas : [TABLAS](Tablas/SO_Tablas.xlsx)
 
+ BD Cotizacion:[SQL](/BD_Cotizacion.sql)
+
 ![foto](./Imagen/Screenshot_20220327-133608.png)
 
 # Comandos de Inicio
