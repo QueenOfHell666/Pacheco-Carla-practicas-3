@@ -83,5 +83,5 @@ INSERT INTO type_of_Trucks (typeofTrucks_id,TP_name ) VALUES
 (2, 'Tres y Media'),
 (3, 'Nissan'),
 (4, 'Torton'),
-(5, 'Trailes');
+(5, 'Trailers');
 
