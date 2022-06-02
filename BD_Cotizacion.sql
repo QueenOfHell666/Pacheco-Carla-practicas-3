@@ -65,10 +65,23 @@ CREATE TABLE type_of_Merchandise
 (
   typeofMerchandise_id INTEGER UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   TM_name VARCHAR(255) NOT NULL
-
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+INSERT INTO type_of_Merchandise (typeofMerchandise_id,TM_name ) VALUES
+(1, 'Puertas'),
+(2, 'Cortinas Metalicas Enrollables'),
+(3, 'Material de Construccion'),
+(4, 'Muebles');
+
 CREATE TABLE type_of_Trucks(
   typeofTrucks_id INTEGER UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   TP_name VARCHAR(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+INSERT INTO type_of_Trucks (typeofTrucks_id,TP_name ) VALUES
+(1, 'Camion'),
+(2, 'Tres y Media'),
+(3, 'Nissan'),
+(4, 'Torton'),
+(5, 'Trailes');
 
