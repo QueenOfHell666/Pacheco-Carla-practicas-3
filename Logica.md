@@ -54,10 +54,32 @@
  >## Regla de Negocio
 
  ## Cliente:
- 1. Poner informacion del cliente
- 2. Describir Producto
- 3. Escoger Transporte
- 4. Descripcion de viaje
+ 1. Crear User del cliente 
+ 2. Leer cliente 
+ 3. Actualizar datos 
+ 4. eliminar user
+
+ > ## Producto 
+
+ 1. Crear producto 
+ 2. Leer todos los productos 
+ 3. Leer un producto 
+ 4. Actualizar producto 
+ 5. Eliminar producto 
+
+ > ## Transporte 
+ 1. Crear transporte 
+ 2. Leer todos los transportes 
+ 3. Leer un transporte 
+ 4. Actualizar un transporte 
+
+ > ## Vaijes 
+
+ 1. Crear viaje 
+ 2. leer todos los viajes
+ 3. leer un viaje 
+ 4. actulizar viaje 
+ 5. eliminar viaje 
  
 
 

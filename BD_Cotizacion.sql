@@ -33,9 +33,9 @@ FOREIGN KEY(travelI)
 CREATE TABLE product
 (
 product_id INTEGER UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-peso FLOAT
-dimensiones FLOAT
-typeofMerchandiseI INTEGER UNSIGNED
+peso FLOAT,
+dimensiones FLOAT,
+typeofMerchandiseI INTEGER UNSIGNED,
 FOREIGN KEY(typeofMerchandiseI)
     REFERENCES type_of_Merchandise(typeofMerchandise_id)
     ON DELETE RESTRICT
@@ -45,7 +45,7 @@ FOREIGN KEY(typeofMerchandiseI)
 CREATE TABLE transport 
 (
 transport_id INTEGER UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-typeofTrucksI INTEGER UNSIGNED
+typeofTrucksI INTEGER UNSIGNED,
 FOREIGN KEY(typeofTrucksI)
     REFERENCES type_of_Trucks(typeofTrucks_id)
     ON DELETE RESTRICT
