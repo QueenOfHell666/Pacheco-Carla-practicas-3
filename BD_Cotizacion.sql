@@ -32,9 +32,15 @@ FOREIGN KEY(travelI)
 
 CREATE TABLE product
 (
+<<<<<<< HEAD
 product_id INTEGER UNSIGNED  PRIMARY KEY,
 peso VARCHAR(20),
 dimensiones VARCHAR(20),
+=======
+product_id INTEGER UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+peso FLOAT,
+dimensiones FLOAT,
+>>>>>>> 91e9be6576aef3232d5fd9725c2abc62263baa7e
 typeofMerchandiseI INTEGER UNSIGNED,
 FOREIGN KEY(typeofMerchandiseI)
     REFERENCES type_of_Merchandise(typeofMerchandise_id)
@@ -44,7 +50,11 @@ FOREIGN KEY(typeofMerchandiseI)
 
 CREATE TABLE transport 
 (
+<<<<<<< HEAD
 transport_id INTEGER UNSIGNED  PRIMARY KEY,
+=======
+transport_id INTEGER UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+>>>>>>> 91e9be6576aef3232d5fd9725c2abc62263baa7e
 typeofTrucksI INTEGER UNSIGNED,
 FOREIGN KEY(typeofTrucksI)
     REFERENCES type_of_Trucks(typeofTrucks_id)

@@ -1,5 +1,9 @@
 /* Reglas de Negocio - Sentencias CRUD */
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 91e9be6576aef3232d5fd9725c2abc62263baa7e
 
 
  /*## Cliente:
