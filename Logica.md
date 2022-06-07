@@ -54,10 +54,10 @@
  >## Regla de Negocio
 
  ## Cliente:
- 1. Crear User del cliente 
+ 1. Crear ciente
  2. Leer cliente 
  3. Actualizar datos 
- 4. eliminar user
+ 4. eliminar cliente
 
  > ## Producto 
 
